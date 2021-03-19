@@ -13,10 +13,10 @@ This client mod corrects the cardinal direction markings of the compass!
 
 For whatever reason, the compass (which is based on the Brunton compass) correctly displays the azimuth (the North arrow and the azimuth reading on the bottom right of the screen match up), but the 'East' and 'West' markings were not swapped. 
 
-**Wrong markings (facing East (azimuth ~90) on Customs):**
+**Wrong markings - facing East (azimuth ~90) on Customs:**
 ![Screenshot](wrong.png) 
 
-**Fixed markings (facing East (azimuth ~90) on Customs):**
+**Fixed markings - facing East (azimuth ~90) on Customs:**
 ![Screenshot](right.png)
 
 **Picture of the real compass (look at the cardinal markings):**

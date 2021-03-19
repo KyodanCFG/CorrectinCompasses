@@ -3,6 +3,8 @@ Correctin' Compasses (for JET Client 12.9.10988)
 Version `1.1.0` (`03.18.2021`)
 By Kyodan
 
+![Screenshot](cover.png)
+
 This client mod corrects the cardinal direction markings of the compass!
                                                                                    
 ## Info

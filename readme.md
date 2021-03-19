@@ -1,6 +1,6 @@
 Correctin' Compasses (for JET Client 12.9.10988) ![GitHub all releases](https://img.shields.io/github/downloads/KyodanCFG/CorrectinCompasses/total?color=green&label=Downloads&style=flat-square) 
 ----------------
-Version `1.1.0` (`03.18.2021`)
+Version `1.1.0` (`03.18.2021`) 
 By Kyodan
 
 ![Screenshot](cover.png)

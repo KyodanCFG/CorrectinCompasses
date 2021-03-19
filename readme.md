@@ -6,6 +6,8 @@ By Kyodan
 ![Screenshot](cover.png)
 
 This client mod corrects the cardinal direction markings of the compass!
+
+**Download the latest release (in ZIP format) here: https://github.com/KyodanCFG/CorrectinCompasses/releases**
                                                                                    
 ## Info
 

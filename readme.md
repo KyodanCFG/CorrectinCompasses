@@ -11,9 +11,13 @@ This client mod corrects the cardinal direction markings of the compass!
 
 - By default, this mod will apply a texture fix to the compass that corrects the cardinal directions by swapping the East and West cardinal direction markings.
 
-For whatever reason, the compass (which is based on the Brunton-style compass) correctly displays the azimuth (the North arrow and the azimuth reading on the bottom right of the screen match up), but the 'East' and 'West' markings were not swapped. 
+For whatever reason, the compass (which is based on the Brunton compass) correctly displays the azimuth (the North arrow and the azimuth reading on the bottom right of the screen match up), but the 'East' and 'West' markings were not swapped. 
 
-![Screenshot](wrong.png) ![Screenshot](right.png)
+Wrong markings (facing East (azimuth 90) on Customs)
+![Screenshot](wrong.png) 
+
+Fixed markings (facing East (azimuth 90) on Customs)
+![Screenshot](right.png)
 
 ## Installation
 

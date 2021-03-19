@@ -45,7 +45,7 @@ For whatever reason, the compass (which is based on the Brunton compass) correct
 
 ## Disclaimer
 
-I am not responsible for any data loss in relation to the use of this mod (including, but not limited to game/profile data and/or content loss, damage caused to your software, computer, or mobile device). I encourage you to back up your server/profile data before using this mod.
+I am not responsible for any data loss in relation to the use of this mod (including, but not limited to game/profile data and/or content loss, damage caused to your software, computer, or mobile device). I encourage you to back up your client data before using this mod.
 
 ## Changelog
 

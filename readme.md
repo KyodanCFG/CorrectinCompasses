@@ -13,6 +13,8 @@ This client mod corrects the cardinal direction markings of the compass!
 
 For whatever reason, the compass (which is based on the Brunton-style compass) correctly displays the azimuth (the North arrow and the azimuth reading on the bottom right of the screen match up), but the 'East' and 'West' markings were not swapped. 
 
+![Screenshot](wrong.png) ![Screenshot](right.png)
+
 ## Installation
 
 1. Download and install the latest version of Melonloader: https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe

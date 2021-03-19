@@ -25,8 +25,8 @@ For whatever reason, the compass (which is based on the Brunton compass) correct
 ## Installation
 
 1. Download and install the latest version of Melonloader: https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe
-* Version 1.0.2 of the `Bundle Loader` mod by AppeaseTheCheeze is included (needed for this mod to work). Check if there are new releases here: https://configfreaks.com/download/bundle-loader/
-* If this is your first time installing Melonloader, run the JET Launcher and connect to your server, then quit the client after getting to the main menu (to create the necessary folders in your client folder)
+  * Version 1.0.2 of the `Bundle Loader` mod by AppeaseTheCheeze is included (needed for this mod to work). Check if there are new releases here: https://configfreaks.com/download/bundle-loader/
+  * If this is your first time installing Melonloader, run the JET Launcher and connect to your server, then quit the client after getting to the main menu (to create the necessary folders in your client folder)
 2. Extract archive to your `client folder/Mods` folder 
     * Folder structure should look like `client folder/Mods/Bundles/Local/Compass_Fix`
 2. Run the JET Launcher and connect to your server
